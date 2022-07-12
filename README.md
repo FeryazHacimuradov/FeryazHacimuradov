@@ -1,6 +1,6 @@
-###                               Hi 👋, I'm Faryaz
+### Hi 👋, I'm Faryaz
 
-                               I'm a full stack developer
+I'm a full stack developer
 
 Here are some ideas to get you started:
 
