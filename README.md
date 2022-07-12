@@ -117,7 +117,7 @@
         alt="FeryazHacimuradov"
       />
     </p>
-
+    <br />
     <p>
       &nbsp;<img
         align="center"
