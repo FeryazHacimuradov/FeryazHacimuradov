@@ -2,8 +2,6 @@
 <h3 align="center">I'm a full stack developer</h3>
 
 - 🌱 I’m currently learning **React.js**
-- <p align="left"><img src="https://www.codewars.com/users/Solexofficial/badges/large" alt="codewars-stats" /> </p>
-
 - 📫 How to reach me **feryazhacimuradov81@gmail.com**
 
     <h3 align="left">Languages and Tools:</h3>
